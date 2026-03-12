@@ -1,6 +1,7 @@
 package com.example.financeapp.models
 
-import android.graphics.Color
+import androidx.compose.ui.graphics.Color
+
 
 data class SummaryCard(
     val title: String,
